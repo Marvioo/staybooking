@@ -1,0 +1,11 @@
+/Users/Marvin/Developer/LaiOffer/Projects/staybooking/src/main/java/com/laioffer/staybooking/controller/RegisterController.java
+/Users/Marvin/Developer/LaiOffer/Projects/staybooking/src/main/java/com/laioffer/staybooking/config/SecurityConfig.java
+/Users/Marvin/Developer/LaiOffer/Projects/staybooking/src/main/java/com/laioffer/staybooking/model/Authority.java
+/Users/Marvin/Developer/LaiOffer/Projects/staybooking/src/main/java/com/laioffer/staybooking/model/UserRole.java
+/Users/Marvin/Developer/LaiOffer/Projects/staybooking/src/main/java/com/laioffer/staybooking/controller/CustomExceptionHandler.java
+/Users/Marvin/Developer/LaiOffer/Projects/staybooking/src/main/java/com/laioffer/staybooking/service/RegisterService.java
+/Users/Marvin/Developer/LaiOffer/Projects/staybooking/src/main/java/com/laioffer/staybooking/model/User.java
+/Users/Marvin/Developer/LaiOffer/Projects/staybooking/src/main/java/com/laioffer/staybooking/StaybookingApplication.java
+/Users/Marvin/Developer/LaiOffer/Projects/staybooking/src/main/java/com/laioffer/staybooking/exception/UserAlreadyExistException.java
+/Users/Marvin/Developer/LaiOffer/Projects/staybooking/src/main/java/com/laioffer/staybooking/repository/AuthorityRepository.java
+/Users/Marvin/Developer/LaiOffer/Projects/staybooking/src/main/java/com/laioffer/staybooking/repository/UserRepository.java

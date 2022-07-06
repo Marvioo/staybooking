@@ -1,0 +1,11 @@
+com/laioffer/staybooking/service/RegisterService.class
+com/laioffer/staybooking/exception/UserAlreadyExistException.class
+com/laioffer/staybooking/StaybookingApplication.class
+com/laioffer/staybooking/model/Authority.class
+com/laioffer/staybooking/model/User.class
+com/laioffer/staybooking/model/UserRole.class
+com/laioffer/staybooking/repository/AuthorityRepository.class
+com/laioffer/staybooking/controller/RegisterController.class
+com/laioffer/staybooking/repository/UserRepository.class
+com/laioffer/staybooking/model/User$Builder.class
+com/laioffer/staybooking/model/Token.class
